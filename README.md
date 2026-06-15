@@ -14,14 +14,14 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-![](https://streak-stats.demolab.com/?user=maulanaORmaulama&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=maulanaORmaulama&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=maulanaORmaulama&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <br />
 <div align="center">
   <a href="https://github.com/maulanaORmaulama/maulanaORmaulama/main">
     <p align="center">
-  <img src="Manchester_United_FC_crest.svg.png" height="80">
+  <img src="Manchester_United_FC_crest.svg.png" height="100">
 </p>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">MANCHESTER UNITED</h3>
