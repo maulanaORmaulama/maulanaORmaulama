@@ -20,7 +20,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/maulanaORmaulama/maulanaORmaulama/main">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+    <p align="center">
+  <img src="Manchester_United_FC_crest.svg.png" height="80">
+</p>
 
   <h3 align="center">Best-README-Template</h3>
