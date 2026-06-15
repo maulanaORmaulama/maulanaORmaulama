@@ -10,7 +10,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isnandka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maulanaisnaandika@gmail.com) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=maulanaORmaulama&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=maulanaORmaulama&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=maulanaORmaulama&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
