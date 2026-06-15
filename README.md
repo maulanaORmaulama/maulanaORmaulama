@@ -10,6 +10,16 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isnandka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maulanaisnaandika@gmail.com) 
 # 📊 GitHub Stats:
+
+<br />
+<div align="center">
+  <a href="https://github.com/maulanaORmaulama/maulanaORmaulama/main">
+    <p align="center">
+  <img src="Manchester_United_FC_crest.svg.png" height="80">
+</p>
+
+  <h3 align="center">MANCHESTER UNITED</h3>
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -17,11 +27,3 @@
 ![](https://streak-stats.demolab.com/?user=maulanaORmaulama&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=maulanaORmaulama&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br />
-<div align="center">
-  <a href="https://github.com/maulanaORmaulama/maulanaORmaulama/main">
-    <p align="center">
-  <img src="Manchester_United_FC_crest.svg.png" height="100">
-</p>
-
-  <h3 align="center">MANCHESTER UNITED</h3>
