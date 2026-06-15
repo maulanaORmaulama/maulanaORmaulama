@@ -18,8 +18,6 @@
   <img src="Manchester_United_FC_crest.svg.png" height="80">
 </p>
 
-  <h3 align="center">MANCHESTER UNITED</h3>
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
